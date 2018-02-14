@@ -110,8 +110,9 @@ function questionTemplate (questionNumber){
 						<label>
 							<input type="radio" name="option" id="option4" value="${question.answer4}" > ${question.answer4} <br>
 						</label>
-						<button class="submitButton"> Submit </button>
+						
 					</fieldset>
+					<button class="submitButton"> Submit </button>
 				</form>`
 	
 	
